@@ -42,8 +42,9 @@ R2=39 KΩ
 
 
 # PRACTICAL GRPAH:
-PASTE UR GRAPH HERE
-![Uploading image.png…]()
+<img width="1247" height="1600" alt="image" src="https://github.com/user-attachments/assets/f8136895-db6b-407c-a6cc-2272e73d7725" />
+
+
 
 
 
