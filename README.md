@@ -56,7 +56,7 @@ R2=39 KΩ
 | Square Wave Output   |    13.20     |     0.33         |   3            |
 
   # RESULT:
-Thus a Schmitt trigger is designed and tested using op-amp IC 741.
+Thus a Schmitt trigger is designed and tested using op-amp IC 741
 
 
 
